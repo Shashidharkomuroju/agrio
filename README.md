@@ -1,3 +1,51 @@
+ # Agriculture 
+
+ ### Product Catalog:
+Browse through our extensive collection of agricultural products, from seeds and fertilizers to farming equipment and tools. With our user-friendly interface, finding the right products for your needs has never been easier.
+ ### Add to Cart:
+Conveniently add products to your cart with just a click of a button. Our seamless shopping experience allows you to effortlessly manage your purchases and streamline the ordering process.
+ ### Video Library:
+Explore our comprehensive video library filled with informative tutorials, expert advice, and insightful demonstrations. Whether you're a seasoned farmer or just starting out, our videos cover a wide range of topics to help you succeed in agriculture.
+### Read More:
+Dive deeper into specific topics with our "Read More" feature, which provides in-depth articles, guides, and resources on various aspects of farming and agricultural practices. Stay informed and stay ahead with AgriHub.
+
+##
+
+![6](https://github.com/Shashidharkomuroju/agrio/assets/163105859/dd9bb326-7b61-4ba7-8a3a-032af54bd985)
+
+
+##
+
+![7](https://github.com/Shashidharkomuroju/agrio/assets/163105859/7a944863-45da-4c23-9f14-ba13f5fdbefb)
+
+
+##
+
+![9](https://github.com/Shashidharkomuroju/agrio/assets/163105859/2fec7843-e76b-47b0-b7eb-f7c318fc558d)
+
+
+##
+
+![5](https://github.com/Shashidharkomuroju/agrio/assets/163105859/e2308c40-a742-4dfe-8c56-c5e5881892f1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +87,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
