@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/agrio/static/css/main.aff1046c.css",
-    "main.js": "/agrio/static/js/main.2ceeeffd.js",
+    "main.js": "/agrio/static/js/main.32090ad4.js",
     "static/media/video2.mp4": "/agrio/static/media/video2.a9edd1d8e0561e65a897.mp4",
     "static/media/section03.png": "/agrio/static/media/section03.31d93f4333ca92673859.png",
     "static/media/image.png": "/agrio/static/media/image.922e5f6a9cca0d78c588.png",
@@ -56,10 +56,10 @@
     "static/media/slick.woff": "/agrio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/agrio/index.html",
     "main.aff1046c.css.map": "/agrio/static/css/main.aff1046c.css.map",
-    "main.2ceeeffd.js.map": "/agrio/static/js/main.2ceeeffd.js.map"
+    "main.32090ad4.js.map": "/agrio/static/js/main.32090ad4.js.map"
   },
   "entrypoints": [
     "static/css/main.aff1046c.css",
-    "static/js/main.2ceeeffd.js"
+    "static/js/main.32090ad4.js"
   ]
 }
